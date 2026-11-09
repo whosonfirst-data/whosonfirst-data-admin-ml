@@ -72,7 +72,7 @@
         "wk:page":"Abe%C3%AFbara"
     },
     "wof:country":"ML",
-    "wof:geomhash":"72542e8a8345881f8646999066a95f27",
+    "wof:geomhash":"2111f63b86ff2f127cea8115366855dd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,5 +98,5 @@
     1.75,
     19.11667000000001
 ],
-  "geometry": {"coordinates":[1.75,19.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[1.75,19.11667],"type":"Point"}
 }

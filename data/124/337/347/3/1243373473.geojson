@@ -50,7 +50,7 @@
         "wk:page":"Yorobougoula"
     },
     "wof:country":"ML",
-    "wof:geomhash":"608be3477755e46d0985c579ddf91288",
+    "wof:geomhash":"8e9b217f4ea1130547b6d32a7728b2db",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,5 +76,5 @@
     -8.0,
     10.91667
 ],
-  "geometry": {"coordinates":[-8.0,10.91667],"type":"Point"}
+  "geometry": {"coordinates":[-8,10.91667],"type":"Point"}
 }

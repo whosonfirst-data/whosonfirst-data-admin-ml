@@ -41,7 +41,7 @@
         "gn:id":2451909
     },
     "wof:country":"ML",
-    "wof:geomhash":"c8988344bbcc518f727daae7fddbdbae",
+    "wof:geomhash":"f68586f3157353ee14882bb59252cde4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     -4.33333,
     16.38332999999999
 ],
-  "geometry": {"coordinates":[-4.33333,16.38332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-4.33333,16.38333],"type":"Point"}
 }

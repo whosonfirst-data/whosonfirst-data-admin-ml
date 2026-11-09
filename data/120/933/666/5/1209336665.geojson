@@ -57,7 +57,7 @@
         "wk:page":"Garalo"
     },
     "wof:country":"ML",
-    "wof:geomhash":"985bfa23cff7f9ba5976d8460d79d7f2",
+    "wof:geomhash":"7de22531cbbadbe2197b21ffa480c72a",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -80,5 +80,5 @@
     -7.43333,
     11.0
 ],
-  "geometry": {"coordinates":[-7.43333,11.0],"type":"Point"}
+  "geometry": {"coordinates":[-7.43333,11],"type":"Point"}
 }

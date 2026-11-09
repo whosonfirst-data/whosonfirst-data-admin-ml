@@ -657,8 +657,7 @@
     "wof:belongsto":[
         102191573,
         85632553,
-        85674525,
-        421187095
+        85674525
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -685,7 +684,6 @@
         {
             "continent_id":102191573,
             "country_id":85632553,
-            "county_id":421187095,
             "locality_id":421182167,
             "region_id":85674525
         }
@@ -694,7 +692,7 @@
     "wof:lastmodified":1690939619,
     "wof:megacity":1,
     "wof:name":"Bamako",
-    "wof:parent_id":421187095,
+    "wof:parent_id":85674525,
     "wof:placetype":"locality",
     "wof:population":1297281,
     "wof:population_rank":12,

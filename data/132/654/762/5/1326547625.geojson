@@ -33,8 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632553,
-        85674525,
-        421187095
+        85674525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +45,6 @@
         {
             "continent_id":102191573,
             "country_id":85632553,
-            "county_id":421187095,
             "locality_id":1326547625,
             "region_id":85674525
         }
@@ -54,7 +52,7 @@
     "wof:id":1326547625,
     "wof:lastmodified":1566605639,
     "wof:name":"Flabougou Daoudaboug",
-    "wof:parent_id":421187095,
+    "wof:parent_id":85674525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ml",
     "wof:superseded_by":[],

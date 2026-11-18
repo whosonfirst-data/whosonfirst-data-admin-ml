@@ -95,12 +95,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Koukourou"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5e93\u5e93\u9c81\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5eab\u5eab\u9b6f\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -124,7 +118,7 @@
         }
     ],
     "wof:id":1193130413,
-    "wof:lastmodified":1636505160,
+    "wof:lastmodified":1794999722,
     "wof:name":"Koukourou",
     "wof:parent_id":1108562873,
     "wof:placetype":"locality",

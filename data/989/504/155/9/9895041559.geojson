@@ -1,0 +1,74 @@
+{
+  "id": 9895041559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.83006,13.5951,-5.83006,13.5951",
+    "geom:latitude":13.5951,
+    "geom:longitude":-5.83006,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200037: name \"Tangara-Were\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200037"
+        },
+        {
+            "citation":"GeoNames populated place 12200037: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200037"
+        },
+        {
+            "citation":"GeoNames populated place 12200037: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200037"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175221 (Segou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200037
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8e5eb365c45b547e3cba48af5c118c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":9895041559,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041559,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Tangara-Were",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.83006,
+    13.5951,
+    -5.83006,
+    13.5951
+],
+  "geometry": {"coordinates":[-5.83006,13.5951],"type":"Point"}
+}

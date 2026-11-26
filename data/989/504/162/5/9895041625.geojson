@@ -1,0 +1,74 @@
+{
+  "id": 9895041625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.52626,14.0549,-3.52626,14.0549",
+    "geom:latitude":14.0549,
+    "geom:longitude":-3.52626,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12204893: name \"Bariwe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12204893"
+        },
+        {
+            "citation":"GeoNames populated place 12204893: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12204893"
+        },
+        {
+            "citation":"GeoNames populated place 12204893: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12204893"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562845 (Bankass), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674539,
+        102191573,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12204893
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a91c72ee0369fc7ae847ef351623dc78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":9895041625,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":9895041625,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Bariwe",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.52626,
+    14.0549,
+    -3.52626,
+    14.0549
+],
+  "geometry": {"coordinates":[-3.52626,14.0549],"type":"Point"}
+}

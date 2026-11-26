@@ -1,0 +1,74 @@
+{
+  "id": 9895041533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.83729,15.90356,1.83729,15.90356",
+    "geom:latitude":15.90356,
+    "geom:longitude":1.83729,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11952720: name \"Intibsite\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11952720"
+        },
+        {
+            "citation":"GeoNames populated place 11952720: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11952720"
+        },
+        {
+            "citation":"GeoNames populated place 11952720: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11952720"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562875 (Menaka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674521,
+        102191573,
+        1108562875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11952720
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"92ac9683d3caf300ce942bcba9a08dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562875,
+            "locality_id":9895041533,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":9895041533,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Intibsite",
+    "wof:parent_id":1108562875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.83729,
+    15.90356,
+    1.83729,
+    15.90356
+],
+  "geometry": {"coordinates":[1.83729,15.90356],"type":"Point"}
+}

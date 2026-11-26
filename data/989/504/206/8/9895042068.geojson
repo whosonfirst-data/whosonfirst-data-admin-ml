@@ -1,0 +1,74 @@
+{
+  "id": 9895042068,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.41141,13.00102,-11.41141,13.00102",
+    "geom:latitude":13.00102,
+    "geom:longitude":-11.41141,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13315141: name \"Sakola Bada\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13315141"
+        },
+        {
+            "citation":"GeoNames populated place 13315141: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13315141"
+        },
+        {
+            "citation":"GeoNames populated place 13315141: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13315141"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171903 (Kenieba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674529,
+        102191573,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13315141
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3001b3b8e71962125d65f5d09b815392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":9895042068,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":9895042068,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Sakola Bada",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.41141,
+    13.00102,
+    -11.41141,
+    13.00102
+],
+  "geometry": {"coordinates":[-11.41141,13.00102],"type":"Point"}
+}

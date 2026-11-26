@@ -1,0 +1,74 @@
+{
+  "id": 9895041892,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.89998,13.75452,-4.89998,13.75452",
+    "geom:latitude":13.75452,
+    "geom:longitude":-4.89998,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225449: name \"Markalani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225449"
+        },
+        {
+            "citation":"GeoNames populated place 12225449: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225449"
+        },
+        {
+            "citation":"GeoNames populated place 12225449: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225449"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562853 (Macina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225449
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0e052ef83b086f6b660f37780fd5e141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":9895041892,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041892,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Markalani",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.89998,
+    13.75452,
+    -4.89998,
+    13.75452
+],
+  "geometry": {"coordinates":[-4.89998,13.75452],"type":"Point"}
+}

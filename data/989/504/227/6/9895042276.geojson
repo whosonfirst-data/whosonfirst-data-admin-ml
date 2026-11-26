@@ -1,0 +1,74 @@
+{
+  "id": 9895042276,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.71781,12.93161,-6.71781,12.93161",
+    "geom:latitude":12.93161,
+    "geom:longitude":-6.71781,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13630306: name \"Dioni Pissa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13630306"
+        },
+        {
+            "citation":"GeoNames populated place 13630306: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13630306"
+        },
+        {
+            "citation":"GeoNames populated place 13630306: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13630306"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562837 (Baroueli), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13630306
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9cb24d1a6e00e3efe2135f554f5357ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":9895042276,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895042276,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Dioni Pissa",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.71781,
+    12.93161,
+    -6.71781,
+    12.93161
+],
+  "geometry": {"coordinates":[-6.71781,12.93161],"type":"Point"}
+}

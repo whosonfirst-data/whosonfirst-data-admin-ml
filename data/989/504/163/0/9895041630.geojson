@@ -1,0 +1,74 @@
+{
+  "id": 9895041630,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96651,15.46899,2.96651,15.46899",
+    "geom:latitude":15.46899,
+    "geom:longitude":2.96651,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12206806: name \"Tadayn\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12206806"
+        },
+        {
+            "citation":"GeoNames populated place 12206806: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12206806"
+        },
+        {
+            "citation":"GeoNames populated place 12206806: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12206806"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562875 (Menaka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674521,
+        102191573,
+        1108562875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12206806
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b0cfa90e52b30995cdc2aaba8921b3e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562875,
+            "locality_id":9895041630,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":9895041630,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Tadayn\u00e9",
+    "wof:parent_id":1108562875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96651,
+    15.46899,
+    2.96651,
+    15.46899
+],
+  "geometry": {"coordinates":[2.96651,15.46899],"type":"Point"}
+}

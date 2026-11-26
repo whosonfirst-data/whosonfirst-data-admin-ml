@@ -1,0 +1,74 @@
+{
+  "id": 9895042014,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.42525,14.00475,-7.42525,14.00475",
+    "geom:latitude":14.00475,
+    "geom:longitude":-7.42525,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12541494: name \"Sobougou Bambara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12541494"
+        },
+        {
+            "citation":"GeoNames populated place 12541494: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12541494"
+        },
+        {
+            "citation":"GeoNames populated place 12541494: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12541494"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562851 (Banamba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12541494
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fa1e2f422c8674f9aadc469a30a53f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":9895042014,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895042014,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Sobougou Bambara",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.42525,
+    14.00475,
+    -7.42525,
+    14.00475
+],
+  "geometry": {"coordinates":[-7.42525,14.00475],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895042100,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.45456,13.62174,-11.45456,13.62174",
+    "geom:latitude":13.62174,
+    "geom:longitude":-11.45456,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13315176: name \"Daro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13315176"
+        },
+        {
+            "citation":"GeoNames populated place 13315176: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13315176"
+        },
+        {
+            "citation":"GeoNames populated place 13315176: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13315176"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171903 (Kenieba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674529,
+        102191573,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13315176
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b6b7aff468dad16278df2cec4baa0c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":9895042100,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":9895042100,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Daro",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.45456,
+    13.62174,
+    -11.45456,
+    13.62174
+],
+  "geometry": {"coordinates":[-11.45456,13.62174],"type":"Point"}
+}

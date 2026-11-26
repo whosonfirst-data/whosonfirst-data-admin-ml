@@ -1,0 +1,74 @@
+{
+  "id": 9895041899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.91265,13.96513,-4.91265,13.96513",
+    "geom:latitude":13.96513,
+    "geom:longitude":-4.91265,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225465: name \"Kira\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225465"
+        },
+        {
+            "citation":"GeoNames populated place 12225465: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225465"
+        },
+        {
+            "citation":"GeoNames populated place 12225465: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225465"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562853 (Macina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225465
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e0459fecda06b8f60d30b5071b61807e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":9895041899,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041899,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kira",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.91265,
+    13.96513,
+    -4.91265,
+    13.96513
+],
+  "geometry": {"coordinates":[-4.91265,13.96513],"type":"Point"}
+}

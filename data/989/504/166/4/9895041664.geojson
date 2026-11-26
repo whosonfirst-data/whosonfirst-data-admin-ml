@@ -1,0 +1,74 @@
+{
+  "id": 9895041664,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.95097,13.27181,-5.95097,13.27181",
+    "geom:latitude":13.27181,
+    "geom:longitude":-5.95097,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12212519: name \"Bamoussobougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12212519"
+        },
+        {
+            "citation":"GeoNames populated place 12212519: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12212519"
+        },
+        {
+            "citation":"GeoNames populated place 12212519: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12212519"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175221 (Segou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12212519
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6670172d1297829af4867ede13814fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":9895041664,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041664,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Bamoussobougou",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.95097,
+    13.27181,
+    -5.95097,
+    13.27181
+],
+  "geometry": {"coordinates":[-5.95097,13.27181],"type":"Point"}
+}

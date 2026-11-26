@@ -1,0 +1,74 @@
+{
+  "id": 9895042161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.40459,15.59291,-9.40459,15.59291",
+    "geom:latitude":15.59291,
+    "geom:longitude":-9.40459,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524592: name \"Guetea Edavoue\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524592"
+        },
+        {
+            "citation":"GeoNames populated place 13524592: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524592"
+        },
+        {
+            "citation":"GeoNames populated place 13524592: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524592"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562869 (Nioro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674529,
+        102191573,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524592
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bab6726f82e132f9e30f9ce8b3e6329e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":9895042161,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":9895042161,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Guetea Edavoue",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.40459,
+    15.59291,
+    -9.40459,
+    15.59291
+],
+  "geometry": {"coordinates":[-9.40459,15.59291],"type":"Point"}
+}

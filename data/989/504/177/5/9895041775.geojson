@@ -1,0 +1,74 @@
+{
+  "id": 9895041775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.02176,13.90032,-7.02176,13.90032",
+    "geom:latitude":13.90032,
+    "geom:longitude":-7.02176,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12217907: name \"Gnigno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12217907"
+        },
+        {
+            "citation":"GeoNames populated place 12217907: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12217907"
+        },
+        {
+            "citation":"GeoNames populated place 12217907: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12217907"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562851 (Banamba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12217907
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d635ae633023b220f0855eda07225a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":9895041775,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895041775,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Gnigno",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.02176,
+    13.90032,
+    -7.02176,
+    13.90032
+],
+  "geometry": {"coordinates":[-7.02176,13.90032],"type":"Point"}
+}

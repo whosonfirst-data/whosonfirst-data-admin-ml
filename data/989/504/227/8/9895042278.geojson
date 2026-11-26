@@ -1,0 +1,74 @@
+{
+  "id": 9895042278,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.73417,12.90316,-6.73417,12.90316",
+    "geom:latitude":12.90316,
+    "geom:longitude":-6.73417,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13630308: name \"Kolobougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13630308"
+        },
+        {
+            "citation":"GeoNames populated place 13630308: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13630308"
+        },
+        {
+            "citation":"GeoNames populated place 13630308: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13630308"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562837 (Baroueli), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13630308
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"10c768c4e676640b4c86a300481754d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":9895042278,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895042278,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kolobougou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73417,
+    12.90316,
+    -6.73417,
+    12.90316
+],
+  "geometry": {"coordinates":[-6.73417,12.90316],"type":"Point"}
+}

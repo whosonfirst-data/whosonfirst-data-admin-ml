@@ -1,0 +1,74 @@
+{
+  "id": 9895041751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.37637,13.69967,-6.37637,13.69967",
+    "geom:latitude":13.69967,
+    "geom:longitude":-6.37637,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12217556: name \"Abou Were\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12217556"
+        },
+        {
+            "citation":"GeoNames populated place 12217556: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12217556"
+        },
+        {
+            "citation":"GeoNames populated place 12217556: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12217556"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175221 (Segou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12217556
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e219db9b8a4344f1764000d3bf7ffa14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":9895041751,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041751,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Abou Were",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.37637,
+    13.69967,
+    -6.37637,
+    13.69967
+],
+  "geometry": {"coordinates":[-6.37637,13.69967],"type":"Point"}
+}

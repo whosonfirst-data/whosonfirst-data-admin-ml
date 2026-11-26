@@ -1,0 +1,74 @@
+{
+  "id": 9895041673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.37215,13.17982,-5.37215,13.17982",
+    "geom:latitude":13.17982,
+    "geom:longitude":-5.37215,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12212610: name \"Fani Gambougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12212610"
+        },
+        {
+            "citation":"GeoNames populated place 12212610: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12212610"
+        },
+        {
+            "citation":"GeoNames populated place 12212610: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12212610"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562835 (Bla), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12212610
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a6d3386c0abf70d8273fad88a03e37a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":9895041673,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041673,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Fani Gambougou",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.37215,
+    13.17982,
+    -5.37215,
+    13.17982
+],
+  "geometry": {"coordinates":[-5.37215,13.17982],"type":"Point"}
+}

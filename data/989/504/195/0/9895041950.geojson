@@ -1,0 +1,74 @@
+{
+  "id": 9895041950,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.93861,14.07524,-3.93861,14.07524",
+    "geom:latitude":14.07524,
+    "geom:longitude":-3.93861,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12420938: name \"Diengueni-Fulbe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12420938"
+        },
+        {
+            "citation":"GeoNames populated place 12420938: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12420938"
+        },
+        {
+            "citation":"GeoNames populated place 12420938: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12420938"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171975 (Bandiagara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674539,
+        102191573,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12420938
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d43c9f6ccc8a905dbe8da95b9ed40b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":9895041950,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":9895041950,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Diengueni-Fulbe",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.93861,
+    14.07524,
+    -3.93861,
+    14.07524
+],
+  "geometry": {"coordinates":[-3.93861,14.07524],"type":"Point"}
+}

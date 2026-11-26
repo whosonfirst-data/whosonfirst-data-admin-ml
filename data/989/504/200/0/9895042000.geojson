@@ -1,0 +1,74 @@
+{
+  "id": 9895042000,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.43634,16.21067,-0.43634,16.21067",
+    "geom:latitude":16.21067,
+    "geom:longitude":-0.43634,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12514689: name \"Amasrakad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12514689"
+        },
+        {
+            "citation":"GeoNames populated place 12514689: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12514689"
+        },
+        {
+            "citation":"GeoNames populated place 12514689: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12514689"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890418899 (Gao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674521,
+        102191573,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12514689
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f1fdf8e9ec7d80073b7a0f299bc2801d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":9895042000,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":9895042000,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Amasrakad",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.43634,
+    16.21067,
+    -0.43634,
+    16.21067
+],
+  "geometry": {"coordinates":[-0.43634,16.21067],"type":"Point"}
+}

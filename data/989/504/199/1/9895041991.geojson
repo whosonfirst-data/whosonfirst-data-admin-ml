@@ -1,0 +1,74 @@
+{
+  "id": 9895041991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.92814,15.07245,-2.92814,15.07245",
+    "geom:latitude":15.07245,
+    "geom:longitude":-2.92814,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12501057: name \"Kara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12501057"
+        },
+        {
+            "citation":"GeoNames populated place 12501057: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12501057"
+        },
+        {
+            "citation":"GeoNames populated place 12501057: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12501057"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421199983 (Douentza), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674539,
+        102191573,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12501057
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3d3152d1232506a8b3d0b3d9468bd853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":9895041991,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":9895041991,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kara",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.92814,
+    15.07245,
+    -2.92814,
+    15.07245
+],
+  "geometry": {"coordinates":[-2.92814,15.07245],"type":"Point"}
+}

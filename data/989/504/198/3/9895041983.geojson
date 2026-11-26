@@ -1,0 +1,74 @@
+{
+  "id": 9895041983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.53764,15.80469,2.53764,15.80469",
+    "geom:latitude":15.80469,
+    "geom:longitude":2.53764,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12500748: name \"Essailal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12500748"
+        },
+        {
+            "citation":"GeoNames populated place 12500748: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12500748"
+        },
+        {
+            "citation":"GeoNames populated place 12500748: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12500748"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562875 (Menaka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674521,
+        102191573,
+        1108562875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12500748
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d0a52a9c5d43672b67673f1ec65fc25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562875,
+            "locality_id":9895041983,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":9895041983,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Essailal",
+    "wof:parent_id":1108562875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.53764,
+    15.80469,
+    2.53764,
+    15.80469
+],
+  "geometry": {"coordinates":[2.53764,15.80469],"type":"Point"}
+}

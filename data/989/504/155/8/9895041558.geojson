@@ -1,0 +1,74 @@
+{
+  "id": 9895041558,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.81878,13.59701,-5.81878,13.59701",
+    "geom:latitude":13.59701,
+    "geom:longitude":-5.81878,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200036: name \"Mindia-Were\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200036"
+        },
+        {
+            "citation":"GeoNames populated place 12200036: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200036"
+        },
+        {
+            "citation":"GeoNames populated place 12200036: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200036"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175221 (Segou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200036
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"336f99524b8177f1fe11dd44343735d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":9895041558,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041558,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Mindia-Were",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.81878,
+    13.59701,
+    -5.81878,
+    13.59701
+],
+  "geometry": {"coordinates":[-5.81878,13.59701],"type":"Point"}
+}

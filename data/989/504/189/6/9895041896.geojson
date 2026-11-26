@@ -1,0 +1,74 @@
+{
+  "id": 9895041896,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.95428,13.77254,-4.95428,13.77254",
+    "geom:latitude":13.77254,
+    "geom:longitude":-4.95428,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225453: name \"Diawary-Were\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225453"
+        },
+        {
+            "citation":"GeoNames populated place 12225453: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225453"
+        },
+        {
+            "citation":"GeoNames populated place 12225453: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225453"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562853 (Macina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225453
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dd3c6d1e830e733770ea8cdb7fc18126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":9895041896,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041896,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Diawary-Were",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.95428,
+    13.77254,
+    -4.95428,
+    13.77254
+],
+  "geometry": {"coordinates":[-4.95428,13.77254],"type":"Point"}
+}

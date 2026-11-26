@@ -1,0 +1,74 @@
+{
+  "id": 9895041683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.28956,13.22903,-6.28956,13.22903",
+    "geom:latitude":13.22903,
+    "geom:longitude":-6.28956,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12212922: name \"N'Gabakoro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12212922"
+        },
+        {
+            "citation":"GeoNames populated place 12212922: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12212922"
+        },
+        {
+            "citation":"GeoNames populated place 12212922: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12212922"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175221 (Segou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12212922
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"09fe0ae8d241ba05e23e6c8fc6c6b99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":9895041683,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041683,
+    "wof:lastmodified":1795735017,
+    "wof:name":"N'Gabakoro",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.28956,
+    13.22903,
+    -6.28956,
+    13.22903
+],
+  "geometry": {"coordinates":[-6.28956,13.22903],"type":"Point"}
+}

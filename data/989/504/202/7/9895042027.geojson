@@ -1,0 +1,74 @@
+{
+  "id": 9895042027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.84725,16.14329,-0.84725,16.14329",
+    "geom:latitude":16.14329,
+    "geom:longitude":-0.84725,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12639559: name \"Tinalgar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12639559"
+        },
+        {
+            "citation":"GeoNames populated place 12639559: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12639559"
+        },
+        {
+            "citation":"GeoNames populated place 12639559: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12639559"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890418899 (Gao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674521,
+        102191573,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12639559
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"834acf8d17423ca73b801185c7dd3c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":9895042027,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":9895042027,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Tinalgar",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.84725,
+    16.14329,
+    -0.84725,
+    16.14329
+],
+  "geometry": {"coordinates":[-0.84725,16.14329],"type":"Point"}
+}

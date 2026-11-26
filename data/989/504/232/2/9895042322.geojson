@@ -1,0 +1,74 @@
+{
+  "id": 9895042322,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.36975,13.05058,-8.36975,13.05058",
+    "geom:latitude":13.05058,
+    "geom:longitude":-8.36975,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13653703: name \"Tomikorobougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13653703"
+        },
+        {
+            "citation":"GeoNames populated place 13653703: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13653703"
+        },
+        {
+            "citation":"GeoNames populated place 13653703: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13653703"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421177883 (Kati), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13653703
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ea54252cc10f4e31382ae7deec6ab433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":9895042322,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895042322,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Tomikorobougou",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.36975,
+    13.05058,
+    -8.36975,
+    13.05058
+],
+  "geometry": {"coordinates":[-8.36975,13.05058],"type":"Point"}
+}

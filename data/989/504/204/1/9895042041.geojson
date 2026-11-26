@@ -1,0 +1,74 @@
+{
+  "id": 9895042041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.61787,14.33035,-7.61787,14.33035",
+    "geom:latitude":14.33035,
+    "geom:longitude":-7.61787,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13060800: name \"Namatiguila\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13060800"
+        },
+        {
+            "citation":"GeoNames populated place 13060800: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13060800"
+        },
+        {
+            "citation":"GeoNames populated place 13060800: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13060800"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562865 (Nara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13060800
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9f2a5e43de6698fa1fbc8f0e75e27ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":9895042041,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895042041,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Namatiguila",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.61787,
+    14.33035,
+    -7.61787,
+    14.33035
+],
+  "geometry": {"coordinates":[-7.61787,14.33035],"type":"Point"}
+}

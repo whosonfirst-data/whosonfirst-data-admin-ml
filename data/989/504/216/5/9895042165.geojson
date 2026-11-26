@@ -1,0 +1,74 @@
+{
+  "id": 9895042165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.08009,15.49206,-9.08009,15.49206",
+    "geom:latitude":15.49206,
+    "geom:longitude":-9.08009,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524929: name \"Lekhzine Teliya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524929"
+        },
+        {
+            "citation":"GeoNames populated place 13524929: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524929"
+        },
+        {
+            "citation":"GeoNames populated place 13524929: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524929"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562865 (Nara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524929
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3af39d638ebfc18ae53f65bc3d3830fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":9895042165,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895042165,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Lekhzine Teliya",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.08009,
+    15.49206,
+    -9.08009,
+    15.49206
+],
+  "geometry": {"coordinates":[-9.08009,15.49206],"type":"Point"}
+}

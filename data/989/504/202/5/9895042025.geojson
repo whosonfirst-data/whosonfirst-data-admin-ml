@@ -1,0 +1,74 @@
+{
+  "id": 9895042025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9724,14.8501,-5.9724,14.8501",
+    "geom:latitude":14.8501,
+    "geom:longitude":-5.9724,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12624861: name \"Yankassadioukana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12624861"
+        },
+        {
+            "citation":"GeoNames populated place 12624861: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12624861"
+        },
+        {
+            "citation":"GeoNames populated place 12624861: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12624861"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562867 (Niono), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12624861
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9189e581f24fc83ff11e5f09c3602821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":9895042025,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895042025,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Yankassadioukana",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9724,
+    14.8501,
+    -5.9724,
+    14.8501
+],
+  "geometry": {"coordinates":[-5.9724,14.8501],"type":"Point"}
+}

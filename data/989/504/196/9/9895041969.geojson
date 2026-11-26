@@ -1,0 +1,74 @@
+{
+  "id": 9895041969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.27151,15.2275,0.27151,15.2275",
+    "geom:latitude":15.2275,
+    "geom:longitude":0.27151,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492714: name \"Temera\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492714"
+        },
+        {
+            "citation":"GeoNames populated place 12492714: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492714"
+        },
+        {
+            "citation":"GeoNames populated place 12492714: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492714"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890418903 (Ansongo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674521,
+        102191573,
+        890418903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492714
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"17a80edd300297b695d55ca8329024e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418903,
+            "locality_id":9895041969,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":9895041969,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Temera",
+    "wof:parent_id":890418903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.27151,
+    15.2275,
+    0.27151,
+    15.2275
+],
+  "geometry": {"coordinates":[0.27151,15.2275],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895041994,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.96778,19.06833,0.96778,19.06833",
+    "geom:latitude":19.06833,
+    "geom:longitude":0.96778,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12511127: name \"Tahtist\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12511127"
+        },
+        {
+            "citation":"GeoNames populated place 12511127: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12511127"
+        },
+        {
+            "citation":"GeoNames populated place 12511127: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12511127"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562887 (Tessalit), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674515,
+        102191573,
+        1108562887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12511127
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e971de41a1178c29fd4bfdc061ace416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562887,
+            "locality_id":9895041994,
+            "region_id":85674515
+        }
+    ],
+    "wof:id":9895041994,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Tahtist",
+    "wof:parent_id":1108562887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.96778,
+    19.06833,
+    0.96778,
+    19.06833
+],
+  "geometry": {"coordinates":[0.96778,19.06833],"type":"Point"}
+}

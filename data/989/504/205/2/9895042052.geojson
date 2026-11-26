@@ -1,0 +1,74 @@
+{
+  "id": 9895042052,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.66605,13.93386,-11.66605,13.93386",
+    "geom:latitude":13.93386,
+    "geom:longitude":-11.66605,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13315124: name \"Cit\u00e9 SEMOS\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13315124"
+        },
+        {
+            "citation":"GeoNames populated place 13315124: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13315124"
+        },
+        {
+            "citation":"GeoNames populated place 13315124: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13315124"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171549 (Kayes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674529,
+        102191573,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13315124
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"66cbf1cf6381faeeaac3eecc278034c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":9895042052,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":9895042052,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Cit\u00e9 SEMOS",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.66605,
+    13.93386,
+    -11.66605,
+    13.93386
+],
+  "geometry": {"coordinates":[-11.66605,13.93386],"type":"Point"}
+}

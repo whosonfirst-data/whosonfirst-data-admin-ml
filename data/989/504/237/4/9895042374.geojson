@@ -1,0 +1,74 @@
+{
+  "id": 9895042374,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9416,12.02445,-5.9416,12.02445",
+    "geom:latitude":12.02445,
+    "geom:longitude":-5.9416,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13657664: name \"Fassoumana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13657664"
+        },
+        {
+            "citation":"GeoNames populated place 13657664: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13657664"
+        },
+        {
+            "citation":"GeoNames populated place 13657664: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13657664"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562825 (Sikasso), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674531,
+        102191573,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13657664
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dd082fd12ba3f57e7227f75bda24de73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":9895042374,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":9895042374,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Fassoumana",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9416,
+    12.02445,
+    -5.9416,
+    12.02445
+],
+  "geometry": {"coordinates":[-5.9416,12.02445],"type":"Point"}
+}

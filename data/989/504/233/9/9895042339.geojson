@@ -1,0 +1,74 @@
+{
+  "id": 9895042339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28635,13.13597,-8.28635,13.13597",
+    "geom:latitude":13.13597,
+    "geom:longitude":-8.28635,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13653721: name \"Ntjibougou Daban\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13653721"
+        },
+        {
+            "citation":"GeoNames populated place 13653721: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13653721"
+        },
+        {
+            "citation":"GeoNames populated place 13653721: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13653721"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421177883 (Kati), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13653721
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"568cf7b6681720b3f35fac5806f68aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":9895042339,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895042339,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ntjibougou Daban",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28635,
+    13.13597,
+    -8.28635,
+    13.13597
+],
+  "geometry": {"coordinates":[-8.28635,13.13597],"type":"Point"}
+}

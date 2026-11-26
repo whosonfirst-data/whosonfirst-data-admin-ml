@@ -1,0 +1,74 @@
+{
+  "id": 9895042030,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.44713,16.78109,-2.44713,16.78109",
+    "geom:latitude":16.78109,
+    "geom:longitude":-2.44713,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718446: name \"Tabagart\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718446"
+        },
+        {
+            "citation":"GeoNames populated place 12718446: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718446"
+        },
+        {
+            "citation":"GeoNames populated place 12718446: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718446"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890418895 (Gourma-Rharous), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674511,
+        102191573,
+        890418895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718446
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"17295d45ac3b79ec4954fe2332808450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418895,
+            "locality_id":9895042030,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":9895042030,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Tabagart",
+    "wof:parent_id":890418895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.44713,
+    16.78109,
+    -2.44713,
+    16.78109
+],
+  "geometry": {"coordinates":[-2.44713,16.78109],"type":"Point"}
+}

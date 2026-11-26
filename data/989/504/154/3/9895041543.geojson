@@ -1,0 +1,74 @@
+{
+  "id": 9895041543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.69195,16.09862,1.69195,16.09862",
+    "geom:latitude":16.09862,
+    "geom:longitude":1.69195,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12188832: name \"Oudeini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12188832"
+        },
+        {
+            "citation":"GeoNames populated place 12188832: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12188832"
+        },
+        {
+            "citation":"GeoNames populated place 12188832: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12188832"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890418903 (Ansongo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674521,
+        102191573,
+        890418903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12188832
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d9172317675a4ac3ca5dfc3381b66da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418903,
+            "locality_id":9895041543,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":9895041543,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Oudeini",
+    "wof:parent_id":890418903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.69195,
+    16.09862,
+    1.69195,
+    16.09862
+],
+  "geometry": {"coordinates":[1.69195,16.09862],"type":"Point"}
+}

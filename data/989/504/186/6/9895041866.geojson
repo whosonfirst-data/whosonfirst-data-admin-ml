@@ -1,0 +1,74 @@
+{
+  "id": 9895041866,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82782,13.10477,-7.82782,13.10477",
+    "geom:latitude":13.10477,
+    "geom:longitude":-7.82782,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225283: name \"Faranisoumal\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225283"
+        },
+        {
+            "citation":"GeoNames populated place 12225283: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225283"
+        },
+        {
+            "citation":"GeoNames populated place 12225283: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225283"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562839 (Koulikoro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225283
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d9e140da2cca1c984f06cee6525df0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":9895041866,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895041866,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Faranisoumal\u00e9",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82782,
+    13.10477,
+    -7.82782,
+    13.10477
+],
+  "geometry": {"coordinates":[-7.82782,13.10477],"type":"Point"}
+}

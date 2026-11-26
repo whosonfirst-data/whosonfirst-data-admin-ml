@@ -1,0 +1,74 @@
+{
+  "id": 9895042034,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.09393,16.07945,0.09393,16.07945",
+    "geom:latitude":16.07945,
+    "geom:longitude":0.09393,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12749812: name \"Kob\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12749812"
+        },
+        {
+            "citation":"GeoNames populated place 12749812: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12749812"
+        },
+        {
+            "citation":"GeoNames populated place 12749812: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12749812"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890418899 (Gao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674521,
+        102191573,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12749812
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"eaa0ad87c20b9ce1d12c57d4210412af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":9895042034,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":9895042034,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kob\u00e9",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.09393,
+    16.07945,
+    0.09393,
+    16.07945
+],
+  "geometry": {"coordinates":[0.09393,16.07945],"type":"Point"}
+}

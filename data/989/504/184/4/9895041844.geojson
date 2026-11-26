@@ -1,0 +1,74 @@
+{
+  "id": 9895041844,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98893,14.46288,-5.98893,14.46288",
+    "geom:latitude":14.46288,
+    "geom:longitude":-5.98893,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225185: name \"Darsalam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225185"
+        },
+        {
+            "citation":"GeoNames populated place 12225185: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225185"
+        },
+        {
+            "citation":"GeoNames populated place 12225185: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225185"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562867 (Niono), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225185
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f75d977e8a909e56c2af3bc7e1d2fdd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":9895041844,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041844,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Darsalam",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98893,
+    14.46288,
+    -5.98893,
+    14.46288
+],
+  "geometry": {"coordinates":[-5.98893,14.46288],"type":"Point"}
+}

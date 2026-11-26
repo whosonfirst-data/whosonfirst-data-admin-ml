@@ -1,0 +1,74 @@
+{
+  "id": 9895041821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.13703,14.10278,-6.13703,14.10278",
+    "geom:latitude":14.10278,
+    "geom:longitude":-6.13703,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225007: name \"Filawere\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225007"
+        },
+        {
+            "citation":"GeoNames populated place 12225007: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225007"
+        },
+        {
+            "citation":"GeoNames populated place 12225007: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225007"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562867 (Niono), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225007
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"69717087c8bddd79d0cd20db7ccf7bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":9895041821,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041821,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Filawere",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.13703,
+    14.10278,
+    -6.13703,
+    14.10278
+],
+  "geometry": {"coordinates":[-6.13703,14.10278],"type":"Point"}
+}

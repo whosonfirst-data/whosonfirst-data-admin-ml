@@ -1,0 +1,74 @@
+{
+  "id": 9895042029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.68544,16.72583,-2.68544,16.72583",
+    "geom:latitude":16.72583,
+    "geom:longitude":-2.68544,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12648364: name \"Gokena Tabatet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12648364"
+        },
+        {
+            "citation":"GeoNames populated place 12648364: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12648364"
+        },
+        {
+            "citation":"GeoNames populated place 12648364: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12648364"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562891 (Tombouctou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674511,
+        102191573,
+        1108562891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12648364
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e96aa5d72131d7b05495f8325653615f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562891,
+            "locality_id":9895042029,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":9895042029,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Gokena Tabatet",
+    "wof:parent_id":1108562891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.68544,
+    16.72583,
+    -2.68544,
+    16.72583
+],
+  "geometry": {"coordinates":[-2.68544,16.72583],"type":"Point"}
+}

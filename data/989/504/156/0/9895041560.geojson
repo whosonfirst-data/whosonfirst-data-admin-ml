@@ -1,0 +1,74 @@
+{
+  "id": 9895041560,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.80821,13.5913,-5.80821,13.5913",
+    "geom:latitude":13.5913,
+    "geom:longitude":-5.80821,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200038: name \"Djouka-Were\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200038"
+        },
+        {
+            "citation":"GeoNames populated place 12200038: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200038"
+        },
+        {
+            "citation":"GeoNames populated place 12200038: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200038"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175221 (Segou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200038
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"35569bbae83ad9373370cccd5b3cb612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":9895041560,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041560,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Djouka-Were",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.80821,
+    13.5913,
+    -5.80821,
+    13.5913
+],
+  "geometry": {"coordinates":[-5.80821,13.5913],"type":"Point"}
+}

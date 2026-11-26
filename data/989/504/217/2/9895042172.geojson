@@ -1,0 +1,74 @@
+{
+  "id": 9895042172,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.82056,12.93993,-6.82056,12.93993",
+    "geom:latitude":12.93993,
+    "geom:longitude":-6.82056,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13628184: name \"Wourouma W\u00e8r\u00e8\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13628184"
+        },
+        {
+            "citation":"GeoNames populated place 13628184: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13628184"
+        },
+        {
+            "citation":"GeoNames populated place 13628184: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13628184"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562837 (Baroueli), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13628184
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"95d041db8fca4f06aa2aadc2f52a6b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":9895042172,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895042172,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Wourouma W\u00e8r\u00e8",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.82056,
+    12.93993,
+    -6.82056,
+    12.93993
+],
+  "geometry": {"coordinates":[-6.82056,12.93993],"type":"Point"}
+}

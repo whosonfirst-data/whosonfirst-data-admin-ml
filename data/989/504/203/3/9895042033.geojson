@@ -1,0 +1,74 @@
+{
+  "id": 9895042033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.8197,20.546,0.8197,20.546",
+    "geom:latitude":20.546,
+    "geom:longitude":0.8197,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12746253: name \"Ikadawatane\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12746253"
+        },
+        {
+            "citation":"GeoNames populated place 12746253: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12746253"
+        },
+        {
+            "citation":"GeoNames populated place 12746253: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12746253"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562887 (Tessalit), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674515,
+        102191573,
+        1108562887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12746253
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bb09069e7b0e762fdc93a569a4440be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562887,
+            "locality_id":9895042033,
+            "region_id":85674515
+        }
+    ],
+    "wof:id":9895042033,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ikadawatane",
+    "wof:parent_id":1108562887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.8197,
+    20.546,
+    0.8197,
+    20.546
+],
+  "geometry": {"coordinates":[0.8197,20.546],"type":"Point"}
+}

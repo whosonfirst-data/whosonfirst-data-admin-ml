@@ -1,0 +1,74 @@
+{
+  "id": 9895042006,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.02755,13.23495,-5.02755,13.23495",
+    "geom:latitude":13.23495,
+    "geom:longitude":-5.02755,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12524018: name \"Massadougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12524018"
+        },
+        {
+            "citation":"GeoNames populated place 12524018: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12524018"
+        },
+        {
+            "citation":"GeoNames populated place 12524018: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12524018"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421192717 (San), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12524018
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3e38bd21ecde5cca50880942c2e02a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":9895042006,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895042006,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Massadougou",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.02755,
+    13.23495,
+    -5.02755,
+    13.23495
+],
+  "geometry": {"coordinates":[-5.02755,13.23495],"type":"Point"}
+}

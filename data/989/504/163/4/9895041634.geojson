@@ -1,0 +1,74 @@
+{
+  "id": 9895041634,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.65012,13.83825,-5.65012,13.83825",
+    "geom:latitude":13.83825,
+    "geom:longitude":-5.65012,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12210295: name \"Noyidaga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12210295"
+        },
+        {
+            "citation":"GeoNames populated place 12210295: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12210295"
+        },
+        {
+            "citation":"GeoNames populated place 12210295: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12210295"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562853 (Macina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12210295
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6b855b4c8bdb2b19d3ffc866259ccb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":9895041634,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041634,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Noyidaga",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.65012,
+    13.83825,
+    -5.65012,
+    13.83825
+],
+  "geometry": {"coordinates":[-5.65012,13.83825],"type":"Point"}
+}

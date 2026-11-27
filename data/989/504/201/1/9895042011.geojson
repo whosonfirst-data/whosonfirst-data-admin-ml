@@ -1,0 +1,74 @@
+{
+  "id": 9895042011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.87,14.99,-1.87,14.99",
+    "geom:latitude":14.99,
+    "geom:longitude":-1.87,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12541234: name \"Petten Dotti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12541234"
+        },
+        {
+            "citation":"GeoNames populated place 12541234: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12541234"
+        },
+        {
+            "citation":"GeoNames populated place 12541234: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12541234"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421199983 (Douentza), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674539,
+        102191573,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12541234
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1fd0e952662dbe81dd2b3c693581e38f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":9895042011,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":9895042011,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Petten Dotti",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.87,
+    14.99,
+    -1.87,
+    14.99
+],
+  "geometry": {"coordinates":[-1.87,14.99],"type":"Point"}
+}

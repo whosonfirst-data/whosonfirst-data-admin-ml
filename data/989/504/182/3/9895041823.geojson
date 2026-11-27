@@ -1,0 +1,74 @@
+{
+  "id": 9895041823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96947,14.20376,-5.96947,14.20376",
+    "geom:latitude":14.20376,
+    "geom:longitude":-5.96947,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225058: name \"Kolodougou-Coura\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225058"
+        },
+        {
+            "citation":"GeoNames populated place 12225058: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225058"
+        },
+        {
+            "citation":"GeoNames populated place 12225058: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225058"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562867 (Niono), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225058
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"131c247c60ab94d4171e0c6c917d1717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":9895041823,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041823,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kolodougou-Coura",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96947,
+    14.20376,
+    -5.96947,
+    14.20376
+],
+  "geometry": {"coordinates":[-5.96947,14.20376],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895042044,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.58582,17.63746,2.58582,17.63746",
+    "geom:latitude":17.63746,
+    "geom:longitude":2.58582,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264400: name \"Achibogo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264400"
+        },
+        {
+            "citation":"GeoNames populated place 13264400: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264400"
+        },
+        {
+            "citation":"GeoNames populated place 13264400: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264400"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562875 (Menaka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674521,
+        102191573,
+        1108562875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264400
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b91dfd32104405bf4f13f08656e7f2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562875,
+            "locality_id":9895042044,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":9895042044,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Achibogo",
+    "wof:parent_id":1108562875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.58582,
+    17.63746,
+    2.58582,
+    17.63746
+],
+  "geometry": {"coordinates":[2.58582,17.63746],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895042372,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96894,12.06645,-5.96894,12.06645",
+    "geom:latitude":12.06645,
+    "geom:longitude":-5.96894,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13657662: name \"Ngolokloni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13657662"
+        },
+        {
+            "citation":"GeoNames populated place 13657662: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13657662"
+        },
+        {
+            "citation":"GeoNames populated place 13657662: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13657662"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562825 (Sikasso), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674531,
+        102191573,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13657662
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e926505fd41521aeba5e266e727b740e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":9895042372,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":9895042372,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ngolokloni",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96894,
+    12.06645,
+    -5.96894,
+    12.06645
+],
+  "geometry": {"coordinates":[-5.96894,12.06645],"type":"Point"}
+}

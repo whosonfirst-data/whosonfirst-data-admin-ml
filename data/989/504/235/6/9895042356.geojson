@@ -1,0 +1,74 @@
+{
+  "id": 9895042356,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.63205,12.93489,-5.63205,12.93489",
+    "geom:latitude":12.93489,
+    "geom:longitude":-5.63205,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13656571: name \"P\u00e8gu\u00e8na Un\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13656571"
+        },
+        {
+            "citation":"GeoNames populated place 13656571: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13656571"
+        },
+        {
+            "citation":"GeoNames populated place 13656571: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13656571"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562835 (Bla), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13656571
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d49dc40d9bb8770739e82952afa22c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":9895042356,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895042356,
+    "wof:lastmodified":1795735017,
+    "wof:name":"P\u00e8gu\u00e8na Un",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.63205,
+    12.93489,
+    -5.63205,
+    12.93489
+],
+  "geometry": {"coordinates":[-5.63205,12.93489],"type":"Point"}
+}

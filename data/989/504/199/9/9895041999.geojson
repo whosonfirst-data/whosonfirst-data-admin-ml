@@ -1,0 +1,74 @@
+{
+  "id": 9895041999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.25,16.63,-3.25,16.63",
+    "geom:latitude":16.63,
+    "geom:longitude":-3.25,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12514447: name \"Dag Bohdel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12514447"
+        },
+        {
+            "citation":"GeoNames populated place 12514447: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12514447"
+        },
+        {
+            "citation":"GeoNames populated place 12514447: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12514447"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562891 (Tombouctou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674511,
+        102191573,
+        1108562891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12514447
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6941cdff328717a048e24c388a8f12d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562891,
+            "locality_id":9895041999,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":9895041999,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Dag Bohdel",
+    "wof:parent_id":1108562891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.25,
+    16.63,
+    -3.25,
+    16.63
+],
+  "geometry": {"coordinates":[-3.25,16.63],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895042123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.7507,15.48916,-5.7507,15.48916",
+    "geom:latitude":15.48916,
+    "geom:longitude":-5.7507,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13354894: name \"Leghdhaf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13354894"
+        },
+        {
+            "citation":"GeoNames populated place 13354894: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13354894"
+        },
+        {
+            "citation":"GeoNames populated place 13354894: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13354894"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562867 (Niono), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13354894
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3a69ad08921829b0abe2f7f2e815d68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":9895042123,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895042123,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Leghdhaf",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.7507,
+    15.48916,
+    -5.7507,
+    15.48916
+],
+  "geometry": {"coordinates":[-5.7507,15.48916],"type":"Point"}
+}

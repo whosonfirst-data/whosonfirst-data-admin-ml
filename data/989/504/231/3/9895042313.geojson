@@ -1,0 +1,74 @@
+{
+  "id": 9895042313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2374,13.45225,-8.2374,13.45225",
+    "geom:latitude":13.45225,
+    "geom:longitude":-8.2374,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13653694: name \"Siranidji\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13653694"
+        },
+        {
+            "citation":"GeoNames populated place 13653694: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13653694"
+        },
+        {
+            "citation":"GeoNames populated place 13653694: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13653694"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562849 (Kolokani), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13653694
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5a97cee3270ae59718e72e85b636a1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":9895042313,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895042313,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Siranidji",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2374,
+    13.45225,
+    -8.2374,
+    13.45225
+],
+  "geometry": {"coordinates":[-8.2374,13.45225],"type":"Point"}
+}

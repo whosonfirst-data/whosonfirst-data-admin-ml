@@ -1,0 +1,74 @@
+{
+  "id": 9895041722,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.77471,13.16947,-7.77471,13.16947",
+    "geom:latitude":13.16947,
+    "geom:longitude":-7.77471,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12216994: name \"Tiekourabougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12216994"
+        },
+        {
+            "citation":"GeoNames populated place 12216994: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12216994"
+        },
+        {
+            "citation":"GeoNames populated place 12216994: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12216994"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562849 (Kolokani), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12216994
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"220c6622fe28e4f77a433759b9f44578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":9895041722,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895041722,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Tiekourabougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.77471,
+    13.16947,
+    -7.77471,
+    13.16947
+],
+  "geometry": {"coordinates":[-7.77471,13.16947],"type":"Point"}
+}

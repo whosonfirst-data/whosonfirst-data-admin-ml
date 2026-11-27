@@ -1,0 +1,74 @@
+{
+  "id": 9895041840,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94515,14.33263,-5.94515,14.33263",
+    "geom:latitude":14.33263,
+    "geom:longitude":-5.94515,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225168: name \"Werekela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225168"
+        },
+        {
+            "citation":"GeoNames populated place 12225168: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225168"
+        },
+        {
+            "citation":"GeoNames populated place 12225168: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225168"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562867 (Niono), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225168
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c1522ff93f561412b8f8aad5779730f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":9895041840,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041840,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Werekela",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94515,
+    14.33263,
+    -5.94515,
+    14.33263
+],
+  "geometry": {"coordinates":[-5.94515,14.33263],"type":"Point"}
+}

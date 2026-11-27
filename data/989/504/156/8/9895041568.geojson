@@ -1,0 +1,74 @@
+{
+  "id": 9895041568,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.69236,13.72538,-5.69236,13.72538",
+    "geom:latitude":13.72538,
+    "geom:longitude":-5.69236,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200074: name \"Dialakoro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200074"
+        },
+        {
+            "citation":"GeoNames populated place 12200074: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200074"
+        },
+        {
+            "citation":"GeoNames populated place 12200074: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200074"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175221 (Segou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200074
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dcebaa2e94e4f24c29e796974f31bd2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":9895041568,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041568,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Dialakoro",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.69236,
+    13.72538,
+    -5.69236,
+    13.72538
+],
+  "geometry": {"coordinates":[-5.69236,13.72538],"type":"Point"}
+}

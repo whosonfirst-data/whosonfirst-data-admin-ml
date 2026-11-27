@@ -1,0 +1,74 @@
+{
+  "id": 9895042343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00794,13.10281,-8.00794,13.10281",
+    "geom:latitude":13.10281,
+    "geom:longitude":-8.00794,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13653725: name \"Si\u00e8mon\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13653725"
+        },
+        {
+            "citation":"GeoNames populated place 13653725: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13653725"
+        },
+        {
+            "citation":"GeoNames populated place 13653725: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13653725"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562849 (Kolokani), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13653725
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"71d6fff1c52f609ae926abc8e9ca9cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":9895042343,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895042343,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Si\u00e8mon",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.00794,
+    13.10281,
+    -8.00794,
+    13.10281
+],
+  "geometry": {"coordinates":[-8.00794,13.10281],"type":"Point"}
+}

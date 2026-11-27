@@ -1,0 +1,74 @@
+{
+  "id": 9895042363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57047,12.75373,-5.57047,12.75373",
+    "geom:latitude":12.75373,
+    "geom:longitude":-5.57047,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13656578: name \"Gouanti\u00e8sso\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13656578"
+        },
+        {
+            "citation":"GeoNames populated place 13656578: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13656578"
+        },
+        {
+            "citation":"GeoNames populated place 13656578: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13656578"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421177885 (Koutiala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674531,
+        102191573,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13656578
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f17f2b094f17971d72132824bd306313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":9895042363,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":9895042363,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Gouanti\u00e8sso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57047,
+    12.75373,
+    -5.57047,
+    12.75373
+],
+  "geometry": {"coordinates":[-5.57047,12.75373],"type":"Point"}
+}

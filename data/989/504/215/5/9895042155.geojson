@@ -1,0 +1,74 @@
+{
+  "id": 9895042155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.90928,15.4911,-5.90928,15.4911",
+    "geom:latitude":15.4911,
+    "geom:longitude":-5.90928,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13356634: name \"Elmetreiwagh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13356634"
+        },
+        {
+            "citation":"GeoNames populated place 13356634: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13356634"
+        },
+        {
+            "citation":"GeoNames populated place 13356634: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13356634"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562867 (Niono), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13356634
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"53b6df25fe095778f9ea70a6a56651f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":9895042155,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895042155,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Elmetreiwagh",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.90928,
+    15.4911,
+    -5.90928,
+    15.4911
+],
+  "geometry": {"coordinates":[-5.90928,15.4911],"type":"Point"}
+}

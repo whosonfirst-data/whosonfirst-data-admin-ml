@@ -1,0 +1,74 @@
+{
+  "id": 9895041968,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.43,14.28,-3.43,14.28",
+    "geom:latitude":14.28,
+    "geom:longitude":-3.43,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492495: name \"Kokorou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492495"
+        },
+        {
+            "citation":"GeoNames populated place 12492495: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492495"
+        },
+        {
+            "citation":"GeoNames populated place 12492495: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492495"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171975 (Bandiagara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674539,
+        102191573,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492495
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8fba3de4876bd31b4773c40a5cc390e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":9895041968,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":9895041968,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kokorou",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.43,
+    14.28,
+    -3.43,
+    14.28
+],
+  "geometry": {"coordinates":[-3.43,14.28],"type":"Point"}
+}

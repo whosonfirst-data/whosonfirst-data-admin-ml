@@ -1,0 +1,74 @@
+{
+  "id": 9895042162,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25934,15.49491,-9.25934,15.49491",
+    "geom:latitude":15.49491,
+    "geom:longitude":-9.25934,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524662: name \"Ehel Ahmed Tebrour\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524662"
+        },
+        {
+            "citation":"GeoNames populated place 13524662: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524662"
+        },
+        {
+            "citation":"GeoNames populated place 13524662: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524662"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562869 (Nioro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674529,
+        102191573,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524662
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ed08ce6af4fc9393e7d88b1cacb87832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":9895042162,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":9895042162,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ehel Ahmed Tebrour",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25934,
+    15.49491,
+    -9.25934,
+    15.49491
+],
+  "geometry": {"coordinates":[-9.25934,15.49491],"type":"Point"}
+}

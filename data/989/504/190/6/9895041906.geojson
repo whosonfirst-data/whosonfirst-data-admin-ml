@@ -1,0 +1,74 @@
+{
+  "id": 9895041906,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.14517,14.28355,-5.14517,14.28355",
+    "geom:latitude":14.28355,
+    "geom:longitude":-5.14517,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225493: name \"Tolsamaboko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225493"
+        },
+        {
+            "citation":"GeoNames populated place 12225493: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225493"
+        },
+        {
+            "citation":"GeoNames populated place 12225493: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225493"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562861 (Tenenkou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674539,
+        102191573,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225493
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"45e7edfd8ea51e164e2729024d706300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":9895041906,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":9895041906,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Tolsamaboko",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.14517,
+    14.28355,
+    -5.14517,
+    14.28355
+],
+  "geometry": {"coordinates":[-5.14517,14.28355],"type":"Point"}
+}

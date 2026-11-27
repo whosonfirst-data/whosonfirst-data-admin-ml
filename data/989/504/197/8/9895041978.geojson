@@ -1,0 +1,74 @@
+{
+  "id": 9895041978,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.69623,14.20841,-3.69623,14.20841",
+    "geom:latitude":14.20841,
+    "geom:longitude":-3.69623,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12495521: name \"Eguela Leye\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12495521"
+        },
+        {
+            "citation":"GeoNames populated place 12495521: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12495521"
+        },
+        {
+            "citation":"GeoNames populated place 12495521: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12495521"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171975 (Bandiagara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674539,
+        102191573,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12495521
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"579ffc8b2fa8b93034bcb4f5db33ea60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":9895041978,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":9895041978,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Eguela Leye",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.69623,
+    14.20841,
+    -3.69623,
+    14.20841
+],
+  "geometry": {"coordinates":[-3.69623,14.20841],"type":"Point"}
+}

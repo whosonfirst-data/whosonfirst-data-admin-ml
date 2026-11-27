@@ -1,0 +1,74 @@
+{
+  "id": 9895041979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.8002,20.25999,1.8002,20.25999",
+    "geom:latitude":20.25999,
+    "geom:longitude":1.8002,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12495524: name \"Talhandak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12495524"
+        },
+        {
+            "citation":"GeoNames populated place 12495524: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12495524"
+        },
+        {
+            "citation":"GeoNames populated place 12495524: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12495524"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562885 (Abeibara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674515,
+        102191573,
+        1108562885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12495524
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c36361c508256588e7d5737dbdb501cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562885,
+            "locality_id":9895041979,
+            "region_id":85674515
+        }
+    ],
+    "wof:id":9895041979,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Talhandak",
+    "wof:parent_id":1108562885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8002,
+    20.25999,
+    1.8002,
+    20.25999
+],
+  "geometry": {"coordinates":[1.8002,20.25999],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895042060,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.06466,13.6624,-11.06466,13.6624",
+    "geom:latitude":13.6624,
+    "geom:longitude":-11.06466,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13315133: name \"Foutouba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13315133"
+        },
+        {
+            "citation":"GeoNames populated place 13315133: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13315133"
+        },
+        {
+            "citation":"GeoNames populated place 13315133: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13315133"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562855 (Bafoulabe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674529,
+        102191573,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13315133
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bcdfc43d2fec8a44be974186b84bd7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":9895042060,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":9895042060,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Foutouba",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.06466,
+    13.6624,
+    -11.06466,
+    13.6624
+],
+  "geometry": {"coordinates":[-11.06466,13.6624],"type":"Point"}
+}

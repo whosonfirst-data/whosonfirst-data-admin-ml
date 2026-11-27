@@ -1,0 +1,74 @@
+{
+  "id": 9895042047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.17713,13.02123,-11.17713,13.02123",
+    "geom:latitude":13.02123,
+    "geom:longitude":-11.17713,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13315119: name \"Kouroudji\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13315119"
+        },
+        {
+            "citation":"GeoNames populated place 13315119: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13315119"
+        },
+        {
+            "citation":"GeoNames populated place 13315119: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13315119"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171903 (Kenieba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674529,
+        102191573,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13315119
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8fc7accede394ee9da692dfb44165b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":9895042047,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":9895042047,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kouroudji",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.17713,
+    13.02123,
+    -11.17713,
+    13.02123
+],
+  "geometry": {"coordinates":[-11.17713,13.02123],"type":"Point"}
+}

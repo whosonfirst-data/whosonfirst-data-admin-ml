@@ -1,0 +1,74 @@
+{
+  "id": 9895042004,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.24969,11.19275,-8.24969,11.19275",
+    "geom:latitude":11.19275,
+    "geom:longitude":-8.24969,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12522703: name \"Djilenfing\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12522703"
+        },
+        {
+            "citation":"GeoNames populated place 12522703: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12522703"
+        },
+        {
+            "citation":"GeoNames populated place 12522703: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12522703"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562821 (Yanfolila), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674531,
+        102191573,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12522703
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"acea496ddd2990f162c91ef1d17d8437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":9895042004,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":9895042004,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Djilenfing",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.24969,
+    11.19275,
+    -8.24969,
+    11.19275
+],
+  "geometry": {"coordinates":[-8.24969,11.19275],"type":"Point"}
+}

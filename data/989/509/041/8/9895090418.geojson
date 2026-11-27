@@ -1,0 +1,72 @@
+{
+  "id": 9895090418,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.33364,15.49634,-7.33364,15.49634",
+    "geom:latitude":15.49634,
+    "geom:longitude":-7.33364,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13354861: name \"Ehel Bay\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13354861"
+        },
+        {
+            "citation":"GeoNames populated place 13354861: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13354861"
+        },
+        {
+            "citation":"GeoNames populated place 13354861: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13354861"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674547 (Koulikoro), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13354861
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e4738c9901a364cd3ea1e1f88b20aeee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "locality_id":9895090418,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895090418,
+    "wof:lastmodified":1795746168,
+    "wof:name":"Ehel Bay",
+    "wof:parent_id":85674547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.33364,
+    15.49634,
+    -7.33364,
+    15.49634
+],
+  "geometry": {"coordinates":[-7.33364,15.49634],"type":"Point"}
+}

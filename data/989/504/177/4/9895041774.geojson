@@ -1,0 +1,74 @@
+{
+  "id": 9895041774,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.22598,13.924,-6.22598,13.924",
+    "geom:latitude":13.924,
+    "geom:longitude":-6.22598,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12217733: name \"Baya Were\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12217733"
+        },
+        {
+            "citation":"GeoNames populated place 12217733: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12217733"
+        },
+        {
+            "citation":"GeoNames populated place 12217733: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12217733"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175221 (Segou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12217733
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"519a019b0c164bec99aa987d9f36ccb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":9895041774,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895041774,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Baya Were",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.22598,
+    13.924,
+    -6.22598,
+    13.924
+],
+  "geometry": {"coordinates":[-6.22598,13.924],"type":"Point"}
+}

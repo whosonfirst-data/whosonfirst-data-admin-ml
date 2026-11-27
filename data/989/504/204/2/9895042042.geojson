@@ -1,0 +1,74 @@
+{
+  "id": 9895042042,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6108,14.44725,-3.6108,14.44725",
+    "geom:latitude":14.44725,
+    "geom:longitude":-3.6108,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118207: name \"Antaba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118207"
+        },
+        {
+            "citation":"GeoNames populated place 13118207: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118207"
+        },
+        {
+            "citation":"GeoNames populated place 13118207: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118207"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171975 (Bandiagara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674539,
+        102191573,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118207
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"42132cade5dae89460911a4e74ecf7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":9895042042,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":9895042042,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Antaba",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6108,
+    14.44725,
+    -3.6108,
+    14.44725
+],
+  "geometry": {"coordinates":[-3.6108,14.44725],"type":"Point"}
+}

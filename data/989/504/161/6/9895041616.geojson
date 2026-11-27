@@ -1,0 +1,74 @@
+{
+  "id": 9895041616,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.78303,13.55426,-3.78303,13.55426",
+    "geom:latitude":13.55426,
+    "geom:longitude":-3.78303,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200389: name \"Ouro-Boubou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200389"
+        },
+        {
+            "citation":"GeoNames populated place 12200389: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200389"
+        },
+        {
+            "citation":"GeoNames populated place 12200389: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200389"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562845 (Bankass), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674539,
+        102191573,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200389
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"95f621c5ba12204a6c8ee889135ca6c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":9895041616,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":9895041616,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ouro-Boubou",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.78303,
+    13.55426,
+    -3.78303,
+    13.55426
+],
+  "geometry": {"coordinates":[-3.78303,13.55426],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895042327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05082,13.0236,-8.05082,13.0236",
+    "geom:latitude":13.0236,
+    "geom:longitude":-8.05082,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13653708: name \"Guili\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13653708"
+        },
+        {
+            "citation":"GeoNames populated place 13653708: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13653708"
+        },
+        {
+            "citation":"GeoNames populated place 13653708: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13653708"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421177883 (Kati), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674547,
+        102191573,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13653708
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"daba54a86966725a9de0e21b2eda448f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":9895042327,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":9895042327,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Guili",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05082,
+    13.0236,
+    -8.05082,
+    13.0236
+],
+  "geometry": {"coordinates":[-8.05082,13.0236],"type":"Point"}
+}

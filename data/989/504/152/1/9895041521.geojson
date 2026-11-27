@@ -1,0 +1,75 @@
+{
+  "id": 9895041521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.76667,10.55,-5.76667,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-5.76667,
+    "gn:population":38149,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2455974: name \"Kadiolo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2455974"
+        },
+        {
+            "citation":"GeoNames populated place 2455974: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2455974"
+        },
+        {
+            "citation":"GeoNames populated place 2455974: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2455974"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562817 (Kadiolo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674531,
+        102191573,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455974
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f693143e7f11b0bd040426a40929df5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":9895041521,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":9895041521,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kadiolo",
+    "wof:parent_id":1108562817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.76667,
+    10.55,
+    -5.76667,
+    10.55
+],
+  "geometry": {"coordinates":[-5.76667,10.55],"type":"Point"}
+}

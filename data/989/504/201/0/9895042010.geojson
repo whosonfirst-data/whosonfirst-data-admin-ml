@@ -1,0 +1,74 @@
+{
+  "id": 9895042010,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.9339,14.8376,-1.9339,14.8376",
+    "geom:latitude":14.8376,
+    "geom:longitude":-1.9339,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12541233: name \"Mondoro Foulbe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12541233"
+        },
+        {
+            "citation":"GeoNames populated place 12541233: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12541233"
+        },
+        {
+            "citation":"GeoNames populated place 12541233: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12541233"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421199983 (Douentza), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674539,
+        102191573,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12541233
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1f8b41b859851f822fa697cca6c64471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":9895042010,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":9895042010,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Mondoro Foulbe",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.9339,
+    14.8376,
+    -1.9339,
+    14.8376
+],
+  "geometry": {"coordinates":[-1.9339,14.8376],"type":"Point"}
+}

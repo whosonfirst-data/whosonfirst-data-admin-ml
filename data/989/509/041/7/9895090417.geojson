@@ -1,0 +1,72 @@
+{
+  "id": 9895090417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.16875,15.49614,-6.16875,15.49614",
+    "geom:latitude":15.49614,
+    "geom:longitude":-6.16875,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13354757: name \"Kervi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13354757"
+        },
+        {
+            "citation":"GeoNames populated place 13354757: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13354757"
+        },
+        {
+            "citation":"GeoNames populated place 13354757: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13354757"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674543 (S\u00e9gou), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        85674543,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13354757
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3a222659e1f432e352a20dd2a0748019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "locality_id":9895090417,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":9895090417,
+    "wof:lastmodified":1795746168,
+    "wof:name":"Kervi",
+    "wof:parent_id":85674543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.16875,
+    15.49614,
+    -6.16875,
+    15.49614
+],
+  "geometry": {"coordinates":[-6.16875,15.49614],"type":"Point"}
+}

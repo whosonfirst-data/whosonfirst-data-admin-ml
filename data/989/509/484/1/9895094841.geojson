@@ -1,0 +1,78 @@
+{
+  "id": 9895094841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.98524,22.66651,-3.98524,22.66651",
+    "geom:latitude":22.66651,
+    "geom:longitude":-3.98524,
+    "gn:population":20000,
+    "iso:country":"ML",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12070575 (Taoud\u00e9nit Region): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12070575"
+        },
+        {
+            "citation":"GeoNames division 12070575 (Taoud\u00e9nit Region): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12070575"
+        },
+        {
+            "citation":"GeoNames division 12070575 (Taoud\u00e9nit Region): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12070575"
+        },
+        {
+            "citation":"GeoNames division 12070575 (Taoud\u00e9nit Region): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12070575"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Taoud\u00e9nit"
+    ],
+    "name:eng_x_variant":[
+        "Taoud\u00e9nit Region"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12070575
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d48b81f408830257bcb0e807edcaf245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "region_id":9895094841
+        }
+    ],
+    "wof:id":9895094841,
+    "wof:lastmodified":1795801332,
+    "wof:name":"Taoud\u00e9nit",
+    "wof:parent_id":85632553,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.98524,
+    22.66651,
+    -3.98524,
+    22.66651
+],
+  "geometry": {"coordinates":[-3.98524,22.66651],"type":"Point"}
+}
